@@ -1,5 +1,5 @@
 
-iOSPlot
+iOSPlot   绘制曲线图、饼状图。可以在图形上标注数据。
 =======
 
 <img width=500 src="http://www.honcheng.com/imagehost/i/img?id=aghob25jaGVuZ3IOCxIFSW1hZ2UY8sCGAgw"/>
